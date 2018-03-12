@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nevarni prometni odseki</string>
+    <string name="title_activity_accident">AccidentActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
